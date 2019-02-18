@@ -1,7 +1,7 @@
 ## Avery's depository for Python files
 Welcome to my depository. Here you can find some of my Python3 codes.
 ### Files
-**hello.py** - Basic Python print code  
+**hello.py** - Basic Python code printing "Hello World"  
 **mundaneMath.py** - summation of all even numbers between 1 and 100.
 
 ### Jekyll Themes
